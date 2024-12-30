@@ -1,6 +1,6 @@
 ### github版本：
 
-运行后http://localhost:8080/hospital/可以打开首页
+运行后http://localhost:8080/hospital/ 可以打开首页
 
 由于dockerhub只管理镜像源， 运行docker-compose up --build
 
